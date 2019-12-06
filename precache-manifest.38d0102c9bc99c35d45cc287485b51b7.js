@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/fullstackopenexamples/static/js/runtime~main.242edd46.js"
   },
   {
-    "revision": "5b68a6b6f1fb6577cba4",
-    "url": "/fullstackopenexamples/static/js/main.4773c1d7.chunk.js"
+    "revision": "e1699efd104d5892c78c",
+    "url": "/fullstackopenexamples/static/js/main.9c78d8b7.chunk.js"
   },
   {
     "revision": "0571b69cddc311e66ec0",
     "url": "/fullstackopenexamples/static/js/2.b934461c.chunk.js"
   },
   {
-    "revision": "5b68a6b6f1fb6577cba4",
+    "revision": "e1699efd104d5892c78c",
     "url": "/fullstackopenexamples/static/css/main.bf19c27c.chunk.css"
   },
   {
-    "revision": "4a29bf98103cff7e60a7a0f5c1d452a3",
+    "revision": "a4ba7f9e6681795e65bf4926d24bd523",
     "url": "/fullstackopenexamples/index.html"
   }
 ];
